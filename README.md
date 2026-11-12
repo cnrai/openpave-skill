@@ -14,13 +14,13 @@ Only entries verified against the hosted sandbox are listed. Legacy `pave instal
 
 ## Install a skill
 
-Open a new chat and paste the link from the table above:
+Open a new chat and type `install` followed by the skill's link from the table:
 
 ```
-install https://github.com/cnrai/<the-skill-you-wanted>
+install https://github.com/cnrai/openpave-dropbox-mcp
 ```
 
-PAVE registers the skill, then an installer session walks you through the setup steps. For example: `install https://github.com/cnrai/openpave-dropbox-mcp`
+PAVE registers the skill, then an installer session walks you through the setup steps.
 
 ## Add a playbook
 
