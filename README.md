@@ -8,6 +8,7 @@ Official catalog of skills and playbooks for [PAVE](https://github.com/cnrai/pav
 |---|---|---|---|---|
 | `dropbox-mcp` | [Dropbox MCP](https://github.com/cnrai/openpave-dropbox-mcp) | johnmak101-ops | Integrations | Operate Dropbox through the remote MCP server (`mcp.dropbox.com/mcp`) — verified doctrines for install, OAuth, and file operations. |
 | `wrike-mcp` | [Wrike MCP](https://github.com/cnrai/openpave-wrike-mcp) | cnrai | Integrations | Operate Wrike through the remote MCP server (`mcp.wrike.com/v2`) — verified doctrines and workarounds for tasks, folders, and attachments. |
+| `heygen-mcp` | [HeyGen MCP](https://github.com/cnrai/openpave-heygen-mcp) | johnmak101-ops | Integrations | Operate HeyGen through the remote MCP server (`mcp.heygen.com/mcp/v1`) — verified doctrines for OAuth consent, avatars, video, translation, voices, and templates. |
 | `your-playbook` | [Example Playbook](https://gist.github.com/your-gist-id) | your-name | Playbook | *Template row — replace with your gist.* One line: what workflow this playbook teaches. |
 
 Only entries verified against the hosted sandbox are listed. Legacy `pave install` marketplace skills are not included.
